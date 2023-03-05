@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\bin\Debug\net6.0\inheritanceathome.exe
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\bin\Debug\net6.0\inheritanceathome.deps.json
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\bin\Debug\net6.0\inheritanceathome.runtimeconfig.json
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\bin\Debug\net6.0\inheritanceathome.dll
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\bin\Debug\net6.0\inheritanceathome.pdb
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.dll
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\refint\inheritanceathome.dll
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.pdb
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\inheritanceathome.genruntimeconfig.cache
+C:\Users\99455\Desktop\hecer c++\inheritanceathome\obj\Debug\net6.0\ref\inheritanceathome.dll
